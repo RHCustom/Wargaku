@@ -1,0 +1,14 @@
+WARGAKU - Paket Aplikasi (PWA)
+
+1. Unggah SEMUA file di folder ini ke hosting situs statis berbasis HTTPS, misalnya:
+   - Netlify Drop (app.netlify.com/drop): seret folder ini, selesai
+   - GitHub Pages, Cloudflare Pages, atau hosting sekolah/desa
+2. Buka alamat situs tersebut, lalu instal:
+   - Android (Chrome): menu titik tiga > Instal aplikasi / Tambahkan ke layar utama
+   - Laptop Windows/Linux (Chrome/Edge): ikon Instal di kolom alamat
+   - Mac (Chrome/Edge): ikon Instal di kolom alamat
+   - Mac (Safari 17+): Berbagi > Tambahkan ke Dock
+   - iPhone/iPad (Safari): Berbagi > Tambah ke Layar Utama
+3. Aplikasi bisa dibuka offline setelah pertama kali dimuat.
+
+Catatan: data masih tersimpan di browser masing-masing perangkat.
